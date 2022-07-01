@@ -14,7 +14,7 @@ Les technologies utilisées pour le projet:
 ***
 Comment installer Veille.io
 ```
-$ git clone https://github.com/WassimSss/Blog-poo
+$ git clone https://github.com/WassimSss/Veilleio
   Créer une base de données veilleio sur MySQL 
   Importer la base de données veilleio_empty.sql pour avoir une base de données vide
   Importer la base de données veilleio_fixtures.sql pour avoir une base de données remplies (Les mots de passe pour chaque email sont Test01)
